@@ -13,6 +13,10 @@
 - https://selvamvasu.wordpress.com/2014/08/01/inode-vs-ext4/
 - https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout
 
+## IO
+
+- https://www.safaribooksonline.com/library/view/linux-system-programming/0596009585/ch04s06.html
+
 ## Memory
 
 - http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
