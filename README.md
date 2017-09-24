@@ -6,6 +6,7 @@
 
 ## API
 
+- https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530
 - https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739
 
 ## Filesystem
