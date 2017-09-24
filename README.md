@@ -15,6 +15,11 @@
 
 ## Memory
 
+- http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+- https://d3s.mff.cuni.cz/~ceres/sch/osy/text/ch03s02s01.html
+- http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/
+- http://www.thegeekstuff.com/2012/03/linux-processes-memory-layout/
+- https://d3s.mff.cuni.cz/~ceres/sch/osy/text/ch03s02s01.html
 - https://www.quora.com/What-is-the-major-difference-between-the-buffer-cache-and-the-page-cache-Why-were-they-separate-entities-in-older-kernels-Why-were-they-merged-later-on
 
 ## Processes
@@ -32,4 +37,6 @@
 
 - http://www.linuxjournal.com/article/9001
 - http://linuxcommand.org/lc3_man_pages/uptime1.html
+- http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+
 
