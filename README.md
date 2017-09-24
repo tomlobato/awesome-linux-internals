@@ -17,6 +17,11 @@
 
 - https://www.quora.com/What-is-the-major-difference-between-the-buffer-cache-and-the-page-cache-Why-were-they-separate-entities-in-older-kernels-Why-were-they-merged-later-on
 
+## Processes
+
+- https://idea.popcount.org/2012-12-11-linux-process-states/
+- http://www.informit.com/articles/article.aspx?p=370047&seqNum=3
+
 ## Metricts
 
 #### IOWAIT
