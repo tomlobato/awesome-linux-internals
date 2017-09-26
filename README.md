@@ -32,6 +32,11 @@
 - https://idea.popcount.org/2012-12-11-linux-process-states/
 - http://www.informit.com/articles/article.aspx?p=370047&seqNum=3
 
+## Containers
+
+- https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
+- https://fabiokung.com/2014/03/13/memory-inside-linux-containers/
+
 ## Metricts
 
 #### IOWAIT
