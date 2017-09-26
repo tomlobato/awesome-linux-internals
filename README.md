@@ -1,3 +1,4 @@
+One word: study with [love](https://www.amazon.com/Robert-Love/e/B001ILFKVE) :)
 
 ## Kernel
 
@@ -26,6 +27,7 @@
 - http://www.thegeekstuff.com/2012/03/linux-processes-memory-layout/
 - https://d3s.mff.cuni.cz/~ceres/sch/osy/text/ch03s02s01.html
 - https://www.quora.com/What-is-the-major-difference-between-the-buffer-cache-and-the-page-cache-Why-were-they-separate-entities-in-older-kernels-Why-were-they-merged-later-on
+- https://www.quora.com/What-is-the-difference-between-Buffers-and-Cached-columns-in-proc-meminfo-output
 
 ## Processes
 
