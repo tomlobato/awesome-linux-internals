@@ -33,6 +33,7 @@ One word: study with [love](https://www.amazon.com/Robert-Love/e/B001ILFKVE) :)
 
 - https://idea.popcount.org/2012-12-11-linux-process-states/
 - http://www.informit.com/articles/article.aspx?p=370047&seqNum=3
+- https://blogs.oracle.com/ksplice/disown%2c-zombie-children%2c-and-the-uninterruptible-sleep
 
 ## Containers
 
