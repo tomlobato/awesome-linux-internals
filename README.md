@@ -40,6 +40,11 @@ One word: study with [love](https://www.amazon.com/Robert-Love/e/B001ILFKVE) :)
 - https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
 - https://fabiokung.com/2014/03/13/memory-inside-linux-containers/
 
+## Performance
+
+- http://www.brendangregg.com/linuxperf.html
+- http://www.brendangregg.com/blog/2016-05-04/srecon2016-perf-checklists-for-sres.html
+
 ## Metricts
 
 #### IOWAIT
