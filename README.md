@@ -1,9 +1,10 @@
 One word: study with [love](https://www.amazon.com/Robert-Love/e/B001ILFKVE) :)
 
-## Kernel
+## Kernel Books/Articels
 
 - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
 - http://shop.oreilly.com/product/9780596005658.do
+- http://learnlinuxconcepts.blogspot.in/2014/03/explain-basics-of-linux-kernel.html
 
 ## API
 
