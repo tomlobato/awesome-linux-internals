@@ -1,5 +1,3 @@
-One word: study with [love](https://www.amazon.com/Robert-Love/e/B001ILFKVE) :)
-
 ## Kernel Books/Articels
 
 - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
