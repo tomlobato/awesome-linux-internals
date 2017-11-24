@@ -13,6 +13,13 @@
 
 - https://selvamvasu.wordpress.com/2014/08/01/inode-vs-ext4/
 - https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout
+- http://e2fsprogs.sourceforge.net/ext2intro.html
+- http://www.nongnu.org/ext2-doc/ext2.html
+
+## Filesystem / Ext2 dev
+
+- https://courses.cs.washington.edu/courses/cse451/09sp/projects/project3light/project3_light.html
+- http://people.ds.cam.ac.uk/fanf2/hermes/src/grub-e1000/stage2/fsys_ext2fs.c (ext2 grub implementation)
 
 ## IO
 
