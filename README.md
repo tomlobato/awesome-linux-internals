@@ -1,4 +1,4 @@
-## Kernel Books/Articels
+## Kernel Books/Articles
 
 - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
 - http://shop.oreilly.com/product/9780596005658.do
